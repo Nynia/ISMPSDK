@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISMPSDK</string>
+    <string name="dialog_title">订购确认</string>
+    <string name="dialog_exit">确认</string>
+    <string name="dialog_back">取消</string>
+    <string name="phone_hint">请输入手机号码</string>
+
+</resources>
