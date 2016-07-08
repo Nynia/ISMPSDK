@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">ISMPSDK</string>
     <string name="dialog_title">订购确认</string>
-    <string name="dialog_exit">确认</string>
+    <string name="dialog_exit">确 认</string>
     <string name="dialog_back">取消</string>
     <string name="phone_hint">请输入手机号码</string>
+    <string name="str_vercode">验证码：</string>
+    <string name="str_vercode_hint">请输入验证码</string>
+    <string name="product_name">产品名称：</string>
+    <string name="product_price">产品价格：</string>
+    <string name="phone_num">订购号码：</string>
+    <string name="provider_name">提供商：</string>
 
 </resources>

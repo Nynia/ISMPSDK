@@ -8,7 +8,8 @@ import com.loopj.android.http.RequestParams;
  * Created by Ridiculous on 2016/6/23.
  */
 public class HttpAsyncClient {
-    private static final String BASE_URL = "http://202.102.41.186:9250/ISMPOpen/serviceOrder";
+    private static final String BASE_URL = "http://202.102.41.186:9250/ISMPOpen2/serviceOrder";
+    //private static final String BASE_URL = "http://202.102.120.121:8080/serviceOrder";
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 

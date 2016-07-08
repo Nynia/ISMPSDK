@@ -4,4 +4,10 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="primary_blue">#0087CB</color>
+    <color name="gray">#808080</color><!--灰色 -->
+    <color name="whitesmoke">#F5F5F5</color><!--烟白色 -->
+    <color name="transparent">#0000</color>
+    <color name="telecomblue">#0061b2</color>
+    <color name="white">#E6E6E6</color>
+    <color name="button">#949494</color>
 </resources>
